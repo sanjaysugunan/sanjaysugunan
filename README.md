@@ -1,147 +1,45 @@
-# Hey, I'm Sanjay 👋
+# Sanjay Sugunan
 
-```solidity
-contract Sanjay {
-    string public background = "Physics";
-    string public currentFocus = "Ethereum & DeFi";
+**DeFi Protocol Engineer** · Building on Ethereum
 
-    function philosophy() external pure returns (string memory) {
-        return "Don't memorize protocols. Build them.";
-    }
-}
-```
+I write smart contracts for decentralised financial protocols — AMMs, lending markets, and on-chain primitives. I care about correctness, test coverage, and understanding the math behind the mechanisms I build.
+
+Currently building a **Uniswap V2 AMM clone from scratch** — constant product formula, liquidity pools, flash swaps, and a TWAP oracle — with full Foundry test suite including fuzz and invariant tests.
 
 ---
 
-## About Me
+## Stack
 
-🎓 **BS Physics @ IIT Kanpur**
+**Smart Contracts**
+Solidity · Foundry · Hardhat · OpenZeppelin
 
-I enjoy understanding complex systems by implementing them from first principles.
+**Testing**
+Fuzz testing · Invariant testing · Unit testing · Forge coverage
 
-Instead of treating protocols as black boxes, I rebuild them to understand *why* they work.
+**DeFi**
+AMMs · Liquidity pools · ERC standards · On-chain math
 
-Currently focused on **Ethereum**, **DeFi**, and **Protocol Engineering**.
-
----
-
-## Tech Stack
-
-```text
-Languages
-├── Solidity
-├── JavaScript
-├── Python
-└── C++
-
-Ethereum
-├── Foundry
-├── Hardhat
-├── OpenZeppelin
-└── EVM
-
-Tools
-├── Git
-├── Linux
-└── VS Code
-```
+**Frontend**
+React · TypeScript · wagmi · ethers.js
 
 ---
 
-## Philosophy
+## Currently building
 
-```cpp
-while (!understand(protocol)) {
-    build(protocol);
-}
-```
+| Project | Description | Status |
+|---|---|---|
+| [uniswap-v2-clone](https://github.com/sanjaysugunan) | AMM with constant product formula, flash swaps, TWAP oracle | 🔨 In progress |
 
 ---
 
-## Building
+## Background
 
-```text
-✔ ERC20
-✔ ERC721
-✔ ERC1155
-✔ Smart Contract Testing
-✔ Foundry
-
-⏳ Uniswap V2
-⏳ Full Stack Web3
-⏳ Open Source Contributions
-⏳ Lending Protocol
-⏳ DAO Governance
-```
-
----
-
-## Interests
-
-* Ethereum
-* DeFi
-* Protocol Engineering
-* Smart Contract Architecture
-* Blockchain Infrastructure
-* Open Source
-
----
-
-## Current Goal
-
-```text
-BS Physics
-      │
-      ▼
-Ethereum Developer
-      │
-      ▼
-DeFi Protocol Engineer
-      │
-      ▼
-Build infrastructure used by millions
-```
-
----
-
-## GitHub Philosophy
-
-> Build.
->
-> Break.
->
-> Understand.
->
-> Repeat.
+BSc Physics · IIT Kanpur  
+Interested in the intersection of mathematics and decentralised finance.  
+Based in Kerala, India · Open to remote roles globally.
 
 ---
 
 ## Connect
 
-* 💼 LinkedIn
-* 🐦 X (Twitter)
-* 📫 Email
-
-
-(stats cards)
-
-## Connect
-
-LinkedIn
-Twitter
-Email
-
-<!--
-**sanjaysugunan/sanjaysugunan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[Twitter / X](https://x.com/s4njyy) · [LinkedIn](https://www.linkedin.com/in/sanjaysugunan/)
