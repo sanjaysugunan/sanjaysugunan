@@ -34,7 +34,7 @@ React · TypeScript · wagmi · ethers.js
 
 ## Background
 
-BSc Physics · IIT Kanpur  
+BS Physics · IIT Kanpur  
 Interested in the intersection of mathematics and decentralised finance.  
 Based in Kerala, India · Open to remote roles globally.
 
