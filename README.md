@@ -1,32 +1,127 @@
-# Hi, I'm Sanjay 👋
+# Hey, I'm Sanjay 👋
 
-Smart Contract Developer | Solidity | Foundry
+```solidity
+contract Sanjay {
+    string public background = "Physics";
+    string public currentFocus = "Ethereum & DeFi";
+
+    function philosophy() external pure returns (string memory) {
+        return "Don't memorize protocols. Build them.";
+    }
+}
+```
+
+---
 
 ## About Me
 
-- 🎓 BS Physics, IIT Kanpur
-- 🔐 Learning Smart Contract Security
-- ⚡ Building Ethereum protocols
-- 🌱 Currently building a Uniswap V2 clone
+🎓 **BS Physics @ IIT Kanpur**
+
+I enjoy understanding complex systems by implementing them from first principles.
+
+Instead of treating protocols as black boxes, I rebuild them to understand *why* they work.
+
+Currently focused on **Ethereum**, **DeFi**, and **Protocol Engineering**.
+
+---
 
 ## Tech Stack
 
-- Solidity
-- Foundry
-- Hardhat
-- Rust
-- Git
-- Linux
+```text
+Languages
+├── Solidity
+├── JavaScript
+├── Python
+└── C++
 
-## Projects
+Ethereum
+├── Foundry
+├── Hardhat
+├── OpenZeppelin
+└── EVM
 
-- Uniswap V2 Clone
-- ERC20
-- ERC721
-- DAO
-- NFT Marketplace
+Tools
+├── Git
+├── Linux
+└── VS Code
+```
 
-## GitHub Stats
+---
+
+## Philosophy
+
+```cpp
+while (!understand(protocol)) {
+    build(protocol);
+}
+```
+
+---
+
+## Building
+
+```text
+✔ ERC20
+✔ ERC721
+✔ ERC1155
+✔ Smart Contract Testing
+✔ Foundry
+
+⏳ Uniswap V2
+⏳ Full Stack Web3
+⏳ Open Source Contributions
+⏳ Lending Protocol
+⏳ DAO Governance
+```
+
+---
+
+## Interests
+
+* Ethereum
+* DeFi
+* Protocol Engineering
+* Smart Contract Architecture
+* Blockchain Infrastructure
+* Open Source
+
+---
+
+## Current Goal
+
+```text
+BS Physics
+      │
+      ▼
+Ethereum Developer
+      │
+      ▼
+DeFi Protocol Engineer
+      │
+      ▼
+Build infrastructure used by millions
+```
+
+---
+
+## GitHub Philosophy
+
+> Build.
+>
+> Break.
+>
+> Understand.
+>
+> Repeat.
+
+---
+
+## Connect
+
+* 💼 LinkedIn
+* 🐦 X (Twitter)
+* 📫 Email
+
 
 (stats cards)
 
