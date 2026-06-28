@@ -28,7 +28,7 @@ React · TypeScript · wagmi · ethers.js
 
 | Project | Description | Status |
 |---|---|---|
-| [uniswap-v2-clone](https://github.com/sanjaysugunan) | AMM with constant product formula, flash swaps, TWAP oracle | 🔨 In progress |
+| [uniswap-v2-clone]([https://github.com/sanjaysugunan](https://github.com/sanjaysugunan/uniswapv2-clone)) | AMM with constant product formula, flash swaps, TWAP oracle | 🔨 In progress |
 
 ---
 
