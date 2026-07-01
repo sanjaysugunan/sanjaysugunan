@@ -51,26 +51,52 @@ assert(reserve0 * reserve1 >= k);
 ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-</div>
+## ⚡ Tech Stack
 
-<table align="center">
+<table>
 <tr>
-<td valign="top" width="50%">
+<td width="50%">
 
-**Smart Contracts**
-Solidity · Foundry · Hardhat · OpenZeppelin · UUPS Proxies · Account Abstraction (ERC-4337)
-
-**Testing**
-Fuzz testing · Stateful invariant testing · Unit testing · `forge coverage`
+### 📜 Smart Contracts
+- Solidity
+- Foundry
+- Hardhat
+- OpenZeppelin
+- UUPS
+- ERC-4337
 
 </td>
-<td valign="top" width="50%">
 
-**DeFi**
-AMMs · Liquidity pools · Overcollateralized stablecoins · Cross-chain messaging (CCIP) · On-chain math
+<td width="50%">
 
-**Frontend**
-React · TypeScript · wagmi · ethers.js
+### 🌉 DeFi
+- AMMs
+- Liquidity Pools
+- Stablecoins
+- Chainlink CCIP
+- On-chain Math
+
+</td>
+</tr>
+
+<tr>
+<td>
+
+### 🧪 Testing
+- Fuzz Testing
+- Stateful Invariant Testing
+- Unit Testing
+- forge coverage
+
+</td>
+
+<td>
+
+### ⚛️ Frontend
+- React
+- TypeScript
+- wagmi
+- ethers.js
 
 </td>
 </tr>
