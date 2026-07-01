@@ -11,7 +11,7 @@
 I write smart contracts for decentralized financial protocols — AMMs, lending markets, and on-chain primitives. I care about correctness, test coverage, and understanding the *math* behind the mechanisms I build.
 
 [![Twitter](https://img.shields.io/badge/-@s4njyy-1DA1F2?style=flat-square&logo=x&logoColor=white)](https://x.com/s4njyy)
-[![LinkedIn](https://img.shields.io/badge/-sanjaysugunan-0077B5?logo=linkedin))](https://www.linkedin.com/in/sanjaysugunan/)
+[![LinkedIn](https://img.shields.io/badge/-sanjaysugunan-0077B5?logo=linkedin)](https://www.linkedin.com/in/sanjaysugunan/)
 [![Email](https://img.shields.io/badge/-s4njyy@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:s4njyy@gmail.com)
 
 </div>
