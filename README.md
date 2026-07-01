@@ -81,8 +81,8 @@ React · TypeScript · wagmi · ethers.js
 ### 📊 GitHub Stats
 
 <div align="center">
-<img height="165" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=sanjaysugunan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=sanjaysugunan&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+<img height="165" src="https://helio-github-stats.vercel.app/api?username=sanjaysugunan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
+<img height="165" src="https://helio-github-stats.vercel.app/api/top-langs/?username=sanjaysugunan&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
 
 <div align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=sanjaysugunan&theme=tokyonight&hide_border=true" alt="GitHub streak" />
