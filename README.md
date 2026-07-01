@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=800&color=1F8EF1&center=true&vCenter=true&width=650&lines=Building+DeFi+protocols+from+first+principles;Solidity+%7C+Foundry+%7C+EVM+internals;Currently+cloning+Uniswap+V2+from+scratch;Physics+%E2%86%92+Smart+Contracts" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=800&color=1F8EF1&center=true&vCenter=true&width=650&lines=Building+DeFi+protocols;Solidity+%7C+Foundry+%7C+EVM+internals;Smart+Contracts+Development" alt="Typing SVG" />
 
 <br/>
 
@@ -81,9 +81,8 @@ React · TypeScript · wagmi · ethers.js
 ### 📊 GitHub Stats
 
 <div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=sanjaysugunan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjaysugunan&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
-</div>
+<img height="165" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=sanjaysugunan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
+<img height="165" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=sanjaysugunan&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
 
 <div align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=sanjaysugunan&theme=tokyonight&hide_border=true" alt="GitHub streak" />
