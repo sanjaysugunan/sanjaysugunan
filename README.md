@@ -53,54 +53,23 @@ assert(reserve0 * reserve1 >= k);
 
 ## ⚡ Tech Stack
 
-<table>
-<tr>
-<td width="50%">
+<p align="center">
 
-### 📜 Smart Contracts
-- Solidity
-- Foundry
-- Hardhat
-- OpenZeppelin
-- UUPS
-- ERC-4337
+<img src="https://img.shields.io/badge/Solidity-363636?logo=solidity">
+<img src="https://img.shields.io/badge/Foundry-orange">
+<img src="https://img.shields.io/badge/Hardhat-F7DF1E?logo=ethereum&logoColor=black">
+<img src="https://img.shields.io/badge/OpenZeppelin-4E5EE4">
+<img src="https://img.shields.io/badge/Chainlink_CCIP-375BD2?logo=chainlink">
+<img src="https://img.shields.io/badge/ERC--4337-blue">
+<br>
+<img src="https://img.shields.io/badge/Fuzz_Testing-success">
+<img src="https://img.shields.io/badge/Invariant_Testing-success">
+<img src="https://img.shields.io/badge/forge_coverage-lightgrey">
+<img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black">
+<img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript">
+<img src="https://img.shields.io/badge/wagmi-black">
 
-</td>
-
-<td width="50%">
-
-### 🌉 DeFi
-- AMMs
-- Liquidity Pools
-- Stablecoins
-- Chainlink CCIP
-- On-chain Math
-
-</td>
-</tr>
-
-<tr>
-<td>
-
-### 🧪 Testing
-- Fuzz Testing
-- Stateful Invariant Testing
-- Unit Testing
-- forge coverage
-
-</td>
-
-<td>
-
-### ⚛️ Frontend
-- React
-- TypeScript
-- wagmi
-- ethers.js
-
-</td>
-</tr>
-</table>
+</p>
 
 ---
 
