@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=800&color=1F8EF1&center=true&vCenter=true&width=650&lines=Building+DeFi+protocols;Solidity+%7C+Foundry+%7C+EVM+internals;Smart+Contracts+Development" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=800&color=1F8EF1&center=true&vCenter=true&width=700&lines=Building+DeFi+protocols;Solidity+%7C+Foundry+%7C+EVM+internals;Uniswap+V2+clone+%E2%80%94+contracts+shipped%2C+frontend+in+progress;Next.js+%7C+wagmi+%7C+RainbowKit" alt="Typing SVG" />
 
 <br/>
 
@@ -20,10 +20,10 @@ I write smart contracts for decentralized financial protocols — AMMs, lending 
 
 ### 🔨 Currently Building
 
-> **Uniswap V2 AMM Clone** — constant product formula, liquidity pools, flash swaps, and a TWAP oracle, built from scratch with a full Foundry test suite (unit + fuzz + invariant).
+> **Uniswap V2 Clone — Frontend** · The contracts are done — constant product AMM, liquidity pools, flash swaps, TWAP oracle, full Foundry suite (unit + fuzz + invariant), all shipped. Now wiring up the swap UI: Next.js + TypeScript + wagmi + RainbowKit + Tailwind.
 
 ```solidity
-// the only invariant that matters
+// the invariant that shipped
 assert(reserve0 * reserve1 >= k);
 ```
 
@@ -31,7 +31,8 @@ assert(reserve0 * reserve1 >= k);
 
 | Project | What it does | Status |
 |---|---|---|
-| 🔄 [**uniswap-v2-clone**](https://github.com/sanjaysugunan/uniswap-v2-clone) | AMM · constant product formula (x·y=k) · flash swaps · TWAP oracle | 🔨 In Progress |
+| 🔄 [**uniswap-v2-clone**](https://github.com/sanjaysugunan/uniswap-v2-clone) | AMM · constant product formula (x·y=k) · flash swaps · TWAP oracle · full fuzz/invariant suite | ✅ Contracts shipped |
+| 🖥️ **uniswap-v2-frontend** | Swap UI for the clone above · Next.js · wagmi · RainbowKit · Tailwind | 🔨 In Progress |
 | 💵 [**foundry-defi-stablecoin**](https://github.com/sanjaysugunan/foundry-defi-stablecoin) | Overcollateralized algorithmic stablecoin · Chainlink oracles · liquidations | ✅ Shipped |
 | 🌉 [**ccip-rebase-token**](https://github.com/sanjaysugunan/ccip-rebase-token) | Cross-chain rebase token synced via Chainlink CCIP | ✅ Shipped |
 
@@ -43,44 +44,45 @@ assert(reserve0 * reserve1 >= k);
 
 <div align="center">
 
+**Contracts & Testing**
+
 ![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
 ![Foundry](https://img.shields.io/badge/Foundry-000000?style=for-the-badge&logo=ethereum&logoColor=white)
 ![Chainlink](https://img.shields.io/badge/Chainlink-375BD2?style=for-the-badge&logo=chainlink&logoColor=white)
+![OpenZeppelin](https://img.shields.io/badge/OpenZeppelin-4E5EE4?style=for-the-badge&logo=openzeppelin&logoColor=white)
+![Hardhat](https://img.shields.io/badge/Hardhat-F7DF1E?style=for-the-badge&logo=ethereum&logoColor=black)
+
+**Frontend**
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
+![wagmi](https://img.shields.io/badge/wagmi-black?style=for-the-badge)
+![RainbowKit](https://img.shields.io/badge/RainbowKit-1E1E1E?style=for-the-badge&logo=rainbow&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
+**Testing & Tooling**
+
+![Fuzz Testing](https://img.shields.io/badge/Fuzz_Testing-success?style=for-the-badge)
+![Invariant Testing](https://img.shields.io/badge/Invariant_Testing-success?style=for-the-badge)
+![forge coverage](https://img.shields.io/badge/forge_coverage-lightgrey?style=for-the-badge)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-## ⚡ Tech Stack
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/Solidity-363636?logo=solidity">
-<img src="https://img.shields.io/badge/Foundry-orange">
-<img src="https://img.shields.io/badge/Hardhat-F7DF1E?logo=ethereum&logoColor=black">
-<img src="https://img.shields.io/badge/OpenZeppelin-4E5EE4">
-<img src="https://img.shields.io/badge/Chainlink_CCIP-375BD2?logo=chainlink">
-<img src="https://img.shields.io/badge/ERC--4337-blue">
-<br>
-<img src="https://img.shields.io/badge/Fuzz_Testing-success">
-<img src="https://img.shields.io/badge/Invariant_Testing-success">
-<img src="https://img.shields.io/badge/forge_coverage-lightgrey">
-<img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black">
-<img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript">
-<img src="https://img.shields.io/badge/wagmi-black">
-
-</p>
+</div>
 
 ---
 
 ### 📊 GitHub Stats
 
 <div align="center">
+
 <img height="165" src="https://helio-github-stats.vercel.app/api?username=sanjaysugunan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
 <img height="165" src="https://helio-github-stats.vercel.app/api/top-langs/?username=sanjaysugunan&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
 
-<div align="center">
+<br/>
+
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=sanjaysugunan&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+
 </div>
 
 ---
@@ -89,7 +91,7 @@ assert(reserve0 * reserve1 >= k);
 
 I hold a **BS in Physics from IIT Kanpur** — linear algebra, probability, and computational physics turned out to be surprisingly good training for reasoning about DeFi mechanism design and cryptographic primitives. I later started (and stepped away from) an MTech in Space Engineering at IIT Indore to go all-in on Ethereum smart contract development.
 
-I completed the full **Cyfrin Updraft** curriculum — Solidity, Foundry, and Advanced Foundry (fuzz + invariant testing, gas optimization, EVM storage internals) — and I'm currently deep in Uniswap V2 internals.
+I completed the full **Cyfrin Updraft** curriculum — Solidity, Foundry, and Advanced Foundry (fuzz + invariant testing, gas optimization, EVM storage internals) — and just wrapped a full Uniswap V2 clone (contracts + tests) from scratch. Now taking it end-to-end by building the frontend.
 
 📍 Based in Kochi, Kerala, India · Open to remote and relocation-friendly roles
 
