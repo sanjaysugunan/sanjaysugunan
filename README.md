@@ -31,8 +31,8 @@ assert(reserve0 * reserve1 >= k);
 
 | Project | What it does | Status |
 |---|---|---|
-| 🔄 [**uniswap-v2-clone**](https://github.com/sanjaysugunan/uniswap-v2-clone) | AMM · constant product formula (x·y=k) · flash swaps · TWAP oracle · full fuzz/invariant suite | ✅ Contracts shipped |
-| 🖥️ **uniswap-v2-frontend** | Swap UI for the clone above · Next.js · wagmi · RainbowKit · Tailwind | 🔨 In Progress |
+| 🖥️ [**uniswap-v2-frontend**](https://github.com/sanjaysugunan/uniswap-v2-frontend)| Swap UI for the clone above · Next.js · wagmi · RainbowKit · Tailwind | 🔨 In Progress |
+| 🔄 [**uniswap-v2-clone**](https://github.com/sanjaysugunan/uniswap-v2-clone) | AMM · constant product formula (x·y=k) · flash swaps · TWAP oracle · full fuzz/invariant suite | ✅ shipped |
 | 💵 [**foundry-defi-stablecoin**](https://github.com/sanjaysugunan/foundry-defi-stablecoin) | Overcollateralized algorithmic stablecoin · Chainlink oracles · liquidations | ✅ Shipped |
 | 🌉 [**ccip-rebase-token**](https://github.com/sanjaysugunan/ccip-rebase-token) | Cross-chain rebase token synced via Chainlink CCIP | ✅ Shipped |
 
