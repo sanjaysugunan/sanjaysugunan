@@ -14,7 +14,7 @@ Focused on correctness, test coverage, and the math behind the mechanisms.
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:s4njyy@gmail.com)
 
 </div>
-
+---
 <br>
 
 <div align="center">
