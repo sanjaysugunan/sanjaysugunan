@@ -25,6 +25,7 @@ Focused on correctness, test coverage, and the math behind the mechanisms.
 
 | Project | Description |
 |:--|:--|
+| [**uniswap-v2-frontend**](https://github.com/sanjaysugunan/uniswap-v2-frontend) | Frontend for a from-scratch Uniswap V2 clone built with Next.js, TypeScript, wagmi, and RainbowKit.
 | [**uniswap-v2-clone**](https://github.com/sanjaysugunan/uniswap-v2-clone) | Uniswap V2 rebuilt from scratch — constant product AMM, flash swaps, TWAP oracle, full fuzz & invariant test suite |
 | [**foundry-defi-stablecoin**](https://github.com/sanjaysugunan/foundry-defi-stablecoin) | Overcollateralized algorithmic stablecoin, Chainlink oracles, liquidations |
 | [**ccip-rebase-token**](https://github.com/sanjaysugunan/ccip-rebase-token) | Cross-chain rebase token, burn-and-mint bridging via Chainlink CCIP |
@@ -33,12 +34,39 @@ Focused on correctness, test coverage, and the math behind the mechanisms.
 <br>
 
 <div align="center">
+---
 
 ### 🧰 Stack
 
-**Solidity · Foundry · Chainlink · OpenZeppelin**
-**Next.js · TypeScript · wagmi · RainbowKit · Tailwind**
+<div align="center">
 
+**Contracts & Testing**
+
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
+![Foundry](https://img.shields.io/badge/Foundry-000000?style=for-the-badge&logo=ethereum&logoColor=white)
+![Chainlink](https://img.shields.io/badge/Chainlink-375BD2?style=for-the-badge&logo=chainlink&logoColor=white)
+![OpenZeppelin](https://img.shields.io/badge/OpenZeppelin-4E5EE4?style=for-the-badge&logo=openzeppelin&logoColor=white)
+![Hardhat](https://img.shields.io/badge/Hardhat-F7DF1E?style=for-the-badge&logo=ethereum&logoColor=black)
+
+**Frontend**
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![wagmi](https://img.shields.io/badge/wagmi-black?style=for-the-badge)
+![RainbowKit](https://img.shields.io/badge/RainbowKit-1E1E1E?style=for-the-badge&logo=rainbow&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
+**Testing & Tooling**
+
+![Fuzz Testing](https://img.shields.io/badge/Fuzz_Testing-success?style=for-the-badge)
+![Invariant Testing](https://img.shields.io/badge/Invariant_Testing-success?style=for-the-badge)
+![forge coverage](https://img.shields.io/badge/forge_coverage-lightgrey?style=for-the-badge)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+</div>
+
+---
 <br>
 
 ### 📊 Stats
