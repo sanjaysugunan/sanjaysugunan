@@ -1,182 +1,81 @@
-# <div align="center">
+<div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=700&color=4FC3F7&center=true&vCenter=true&width=900&lines=Building+production-grade+DeFi+protocols;Solidity+%7C+Foundry+%7C+Protocol+Engineering;End-to-end+Ethereum+dApps;AMMs+%7C+Testing+%7C+Frontend+Development" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=4FC3F7&center=true&vCenter=true&width=800&lines=DeFi+Protocol+Engineer;Solidity+%7C+Foundry+%7C+EVM+Internals;Building+AMMs+%2C+Vaults+%26+Onchain+Infrastructure" alt="Typing SVG" />
 
-# Hey, I'm Sanjay 👋
+# Sanjay Sugunan
 
-### Ethereum • DeFi Protocol Engineer • Smart Contract Developer
+**Smart Contract Developer · DeFi Protocol Engineer**
 
-I build decentralized financial applications from the protocol layer to the user interface.
+I build decentralized financial protocols end-to-end — from AMM invariants and gas-optimized Solidity to the frontends that put them in users' hands.
 
-My primary interests are **Automated Market Makers (AMMs), protocol architecture, smart contract security, EVM internals, testing methodologies, and building production-ready decentralized applications.**
-
-<br>
-
-[![Live DEX](https://img.shields.io/badge/🚀%20Live%20DEX-blue?style=for-the-badge)](https://uniswap-v2-clone-sanjay-sugunan.vercel.app/)
-[![GitHub](https://img.shields.io/badge/GitHub-sanjaysugunan-181717?style=for-the-badge\&logo=github)](https://github.com/sanjaysugunan)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sanjay%20Sugunan-0077B5?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/sanjaysugunan/)
-[![X](https://img.shields.io/badge/@s4njyy-000000?style=for-the-badge\&logo=x)](https://x.com/s4njyy)
+[![Live DEX](https://img.shields.io/badge/Live%20Demo-Uniswap%20V2%20Clone-4FC3F7?style=for-the-badge&logo=vercel&logoColor=white)](https://uniswap-v2-clone-sanjay-sugunan.vercel.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-sanjaysugunan-181717?style=for-the-badge&logo=github)](https://github.com/sanjaysugunan)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sanjay%20Sugunan-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanjaysugunan/)
+[![X](https://img.shields.io/badge/@s4njyy-000000?style=for-the-badge&logo=x)](https://x.com/s4njyy)
 
 </div>
 
 ---
 
-# 🚀 Featured Work
+## 🔄 Featured: Uniswap V2 Clone
 
-## 🔄 Uniswap V2 Clone (Protocol)
+A full-stack reimplementation of the Uniswap V2 protocol — contracts, deployment, and frontend.
 
-A complete implementation of the Uniswap V2 protocol written entirely in Solidity.
+**Protocol** · [`github.com/sanjaysugunan/uniswap-v2-clone`](https://github.com/sanjaysugunan/uniswap-v2-clone)
+- Constant product AMM (`x·y = k`), Factory, Router, Pair contracts, LP tokens
+- Flash swaps, TWAP oracle, `CREATE2` deterministic deployment, WETH integration
+- Gas-optimized contracts with unit, fuzz, and invariant test suites (Foundry)
 
-### Features
+**Frontend** · [`github.com/sanjaysugunan/uniswap-v2-frontend`](https://github.com/sanjaysugunan/uniswap-v2-frontend) · [**Live App ↗**](https://uniswap-v2-clone-sanjay-sugunan.vercel.app/)
+- Next.js, TypeScript, Tailwind CSS, wagmi, viem, RainbowKit
+- Swaps, pool creation, liquidity management, faucet, wallet connection
 
-* Constant Product AMM (`x × y = k`)
-* Factory
-* Router
-* Pair Contracts
-* LP Tokens
-* Flash Swaps
-* TWAP Oracle
-* CREATE2 Pair Deployment
-* WETH Integration
-* Fee Accounting
-* Gas Optimized Contracts
-* Extensive Unit Testing
-* Fuzz Testing
-* Invariant Testing
+**Sepolia Deployment**
 
-```solidity
-// Core protocol invariant
-
-reserve0 * reserve1 >= k
-```
-
-Repository
-
-**github.com/sanjaysugunan/uniswap-v2-clone**
+| Contract | Address |
+|---|---|
+| Factory | `0x96E606463d41DAeFf0246D905013aE0CDC5CCef2` |
+| Router | `0xb15a4579E05Da61E9aDBE77bdD28479E7f6301A3` |
+| WETH | `0xC558DBdd856501FCd9aaF1E62eae57A9F0629a3c` |
 
 ---
 
-## 🖥️ Uniswap V2 Frontend
+## 📦 Other Projects
 
-A modern frontend for interacting with the protocol.
-
-### Built With
-
-* Next.js
-* React
-* TypeScript
-* Tailwind CSS
-* wagmi
-* RainbowKit
-* viem
-
-### Features
-
-* Wallet Connection
-* Token Swaps
-* Pool Creation
-* Add Liquidity
-* Remove Liquidity
-* Faucet
-* Network Detection
-* Responsive UI
-
-### Live
-
-🌐 **https://uniswap-v2-clone-sanjay-sugunan.vercel.app/**
-
-Repository
-
-**github.com/sanjaysugunan/uniswap-v2-frontend**
+| Project | Description |
+|---|---|
+| **Foundry DeFi Stablecoin** | Overcollateralized stablecoin with Chainlink price feeds, health-factor accounting, and liquidations |
+| **CCIP Rebase Token** | Cross-chain rebase token with supply sync via Chainlink CCIP |
 
 ---
 
-# ⛓️ Sepolia Deployment
+## 🧰 Tech Stack
 
-| Contract | Address                                      |
-| -------- | -------------------------------------------- |
-| Factory  | `0x96E606463d41DAeFf0246D905013aE0CDC5CCef2` |
-| Router   | `0xb15a4579E05Da61E9aDBE77bdD28479E7f6301A3` |
-| WETH     | `0xC558DBdd856501FCd9aaF1E62eae57A9F0629a3c` |
+**Smart Contracts**
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity)
+![Foundry](https://img.shields.io/badge/Foundry-black?style=flat-square)
+![OpenZeppelin](https://img.shields.io/badge/OpenZeppelin-4E5EE4?style=flat-square&logo=openzeppelin)
+![Chainlink](https://img.shields.io/badge/Chainlink-375BD2?style=flat-square&logo=chainlink)
 
----
+**Frontend**
+![Next.js](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=nextdotjs)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss)
+![wagmi](https://img.shields.io/badge/wagmi-black?style=flat-square)
+![viem](https://img.shields.io/badge/viem-black?style=flat-square)
 
-# 📦 Other Projects
-
-### 💵 Foundry DeFi Stablecoin
-
-Overcollateralized decentralized stablecoin.
-
-Features
-
-* Chainlink Price Feeds
-* Health Factor
-* Liquidations
-* Mint & Burn
-* Collateral Management
+**Testing**
+Forge · Unit · Fuzz · Invariant · Coverage Reports
 
 ---
 
-### 🌉 CCIP Rebase Token
-
-Cross-chain rebase token synchronized using Chainlink CCIP.
-
-Features
-
-* Cross-chain Messaging
-* Supply Synchronization
-* Automated Rebasing
-
----
-
-# 🧰 Tech Stack
-
-## Smart Contracts
-
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge\&logo=solidity)
-![Foundry](https://img.shields.io/badge/Foundry-black?style=for-the-badge)
-![OpenZeppelin](https://img.shields.io/badge/OpenZeppelin-4E5EE4?style=for-the-badge\&logo=openzeppelin)
-![Chainlink](https://img.shields.io/badge/Chainlink-375BD2?style=for-the-badge\&logo=chainlink)
-
----
-
-## Frontend
-
-![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge\&logo=nextdotjs)
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react)
-
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript)
-
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge\&logo=tailwindcss)
-
-![wagmi](https://img.shields.io/badge/wagmi-black?style=for-the-badge)
-
-![RainbowKit](https://img.shields.io/badge/RainbowKit-black?style=for-the-badge)
-
-![viem](https://img.shields.io/badge/viem-black?style=for-the-badge)
-
----
-
-## Testing
-
-* Forge
-* Unit Testing
-* Fuzz Testing
-* Invariant Testing
-* Coverage Reports
-
----
-
-# 📈 GitHub Stats
+## 📈 GitHub Stats
 
 <div align="center">
 
-<img height="170" src="https://helio-github-stats.vercel.app/api?username=sanjaysugunan&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://helio-github-stats.vercel.app/api/top-langs/?username=sanjaysugunan&layout=compact&theme=tokyonight&hide_border=true"/>
-
-<br>
+<img height="165" src="https://helio-github-stats.vercel.app/api?username=sanjaysugunan&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="165" src="https://helio-github-stats.vercel.app/api/top-langs/?username=sanjaysugunan&layout=compact&theme=tokyonight&hide_border=true"/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=sanjaysugunan&theme=tokyonight&hide_border=true"/>
 
@@ -184,59 +83,22 @@ Features
 
 ---
 
-# 🎓 Background
+## 🎓 Background
 
-I earned a **BS in Physics from IIT Kanpur**, where I developed a strong mathematical foundation through coursework in linear algebra, probability, numerical methods, and computational physics.
+BS in Physics, **IIT Kanpur** — linear algebra, probability, numerical methods, and computational physics, which now underpin how I reason about AMM invariants and protocol mechanism design.
 
-Those skills naturally transferred into protocol engineering—reasoning about invariants, financial mechanisms, and low-level EVM behavior.
+Completed the full **Cyfrin Updraft** curriculum: Solidity, Foundry, advanced testing, EVM internals, storage layout, gas optimization, and smart contract security.
 
-To specialize in Ethereum development, I completed the entire **Cyfrin Updraft** curriculum covering
-
-* Solidity
-* Foundry
-* Advanced Testing
-* EVM Internals
-* Storage Layout
-* Gas Optimization
-* Security Best Practices
-
-Today my focus is designing, implementing, testing, and shipping production-quality DeFi protocols.
-
----
-
-# 📚 Currently Learning
-
-* Uniswap V3 Architecture
-* Curve StableSwap
-* Lending Protocol Design
-* ERC-4626 Vaults
-* Smart Contract Security
-* MEV
-* Account Abstraction
-* Cross-chain Infrastructure
+**Currently exploring:** Uniswap V3 architecture · Curve StableSwap · lending protocol design · ERC-4626 vaults · MEV · account abstraction · cross-chain infrastructure
 
 ---
 
 <div align="center">
 
-## Let's Build Better Protocols
+**Open to:** Remote Opportunities · Protocol Engineering · Smart Contract Development · DeFi Infrastructure
 
-Open to
+[**View Live Demo →**](https://uniswap-v2-clone-sanjay-sugunan.vercel.app/)
 
-🌍 Remote Opportunities
-
-🏗️ Protocol Engineering
-
-⚡ Smart Contract Development
-
-🔬 DeFi Infrastructure
-
-<br>
-
-**Live Demo**
-
-https://uniswap-v2-clone-sanjay-sugunan.vercel.app/
-
-⭐ Thanks for visiting!
+⭐ Thanks for stopping by
 
 </div>
