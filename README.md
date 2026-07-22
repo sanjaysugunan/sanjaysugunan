@@ -34,7 +34,6 @@ Focused on correctness, test coverage, and the math behind the mechanisms.
 <br>
 
 <div align="center">
----
 
 ### 🧰 Stack
 
@@ -66,7 +65,6 @@ Focused on correctness, test coverage, and the math behind the mechanisms.
 
 </div>
 
----
 <br>
 
 ### 📊 Stats
